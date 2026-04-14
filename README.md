@@ -115,7 +115,7 @@ Then upload to Vercel or connect your GitHub repo.
 **Arti Giram**
 
 * GitHub: https://github.com/Artigiram282004
-* Portfolio: arti-giram-portfolio.vercel.app
+* Portfolio:https://arti-giram-portfolio.vercel.app
 * LinkedIn: https://www.linkedin.com/in/arti-giram-019bba374
 * Email: artigiram3@gmail.com
 
